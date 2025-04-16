@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    width: 45%;
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 8px 12px;
+    margin: 5px 5px 15px 0;
+    cursor: pointer;
+  }
+  
+  h1, h3 {
+    margin: 5px 0;
+  }
+  
+  .todo-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 15px;
+  }
+  
